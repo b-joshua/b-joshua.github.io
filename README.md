@@ -10,7 +10,7 @@ ___
   <img src="Designer.jpeg" width="250">
 </p>
 
-Hello! My name is Joshua and I am a master's student in [Naama Barkai's Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
+Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
 
 Throughout my degree I have been working to strengthen my computational skills, with the ultimate goal of combining *computational* and *wet-lab* research to study how human transcription factors find their target promoters.
 
