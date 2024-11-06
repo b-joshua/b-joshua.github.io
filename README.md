@@ -1,7 +1,3 @@
-___
-title: "Joshua Bugis"
-___
-
 ## Welcome!
 
 Welcome to my GitHub page! Here you'll find some information about me and my studies, as well as the introductory **Python** coding course I am taking!
