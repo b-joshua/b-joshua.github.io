@@ -1,9 +1,10 @@
-# b-joshua.github.io
+# Welcome to my page
 
-## Welcome to my page
+![avatar](Designer.jpeg)
+
 
 Here is some text
 
 # This is a test
 
-![avatar](Designer.jpeg)
+
