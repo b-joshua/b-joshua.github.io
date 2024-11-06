@@ -33,5 +33,5 @@ In this course we are going to learn:
 - How to define and work with different data types
 - Writing code to help solve a problem we face in our research (final project)!
 
-For a full list of the topics covered in this course, check out the [course information](https://erez.weizmann.ac.il/apx/r/ws1/186/30?pid=15125&pprev=14987)
+For a full list of the topics covered in this course, check out the [course information](https://erez.weizmann.ac.il/apx/r/ws1/186/30?pid=15125&pprev=14987).
 
