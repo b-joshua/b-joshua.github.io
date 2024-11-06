@@ -1,4 +1,2 @@
 # _config.yml
-title: "Joshua Bugis"
-description: "Python Course GitHub Page"
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minima
