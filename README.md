@@ -7,7 +7,7 @@ ___
 
 ## About me
 
-<img  src="Avatar1.png"  width="300" style="float: right; padding: 20px;"/>
+<img  src="Avatar1.png"  width="250" style="float: right; padding: 20px;"/>
 
 Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
 
