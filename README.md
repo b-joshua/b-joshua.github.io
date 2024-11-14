@@ -7,10 +7,9 @@ ___
 
 ## About me
 
-<img src="Avatar1.png" width="300" style="padding: 20px;">
+<img src="Avatar1.png" width="300" style="float: right; padding: 20px;">
 <br>
-<img src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg" width="300" style="padding: 20px;">
-<p>Citation: Source or description of the second image goes here.</p>
+<img src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg" width="300" style="float: right; padding: 20px;">
 
 Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
 
@@ -37,3 +36,5 @@ In this course we are going to learn:
 
 For a full list of the topics covered in this course, check out the [course information](https://erez.weizmann.ac.il/apx/r/ws1/186/30?pid=15125&pprev=14987).
 
+___
+* Citation for transcription factor image: 
