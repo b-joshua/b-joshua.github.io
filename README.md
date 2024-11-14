@@ -7,10 +7,7 @@ ___
 
 ## About me
 
-<div style="float: right; text-align: right;">
-  <img src="Avatar1.png" width="300" style="padding: 20px; clear: both;">
-  <img src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg" width="300" style="padding: 20px;">
-</div>
+<img  src="Avatar1.png"  width="300" style="float: right; padding: 20px;"/>
 
 Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
 
@@ -20,6 +17,8 @@ When I'm not in the lab, I enjoy:
 - Playing soccer
 - Relaxing at the beach
 - Listening to music from around the world
+
+<img  src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg"  width="300" style="float: right; padding: 20px;"/>
 
 Feel free to reach out to me by [email](mailto:joshua.bugis@weizmann.ac.il)!
 
