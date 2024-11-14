@@ -7,9 +7,10 @@ ___
 
 ## About me
 
-<img src="Avatar1.png" width="300" style="float: right; padding: 20px;">
-<br>
-<img src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg" width="300" style="float: right; padding: 20px;">
+<div style="float: right; text-align: right;">
+  <img src="Avatar1.png" width="300" style="padding: 20px; clear: both;">
+  <img src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg" width="300" style="padding: 20px;">
+</div>
 
 Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
 
@@ -37,4 +38,5 @@ In this course we are going to learn:
 For a full list of the topics covered in this course, check out the [course information](https://erez.weizmann.ac.il/apx/r/ws1/186/30?pid=15125&pprev=14987).
 
 ___
-* Citation for transcription factor image: 
+
+Citation for transcription factor image: Love, A. C., & Nathan, M. J. (2015). The idealization of causation in mechanistic explanation. Philosophy of Science, 82(5), 761-774.
