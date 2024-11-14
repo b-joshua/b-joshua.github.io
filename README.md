@@ -7,13 +7,14 @@ ___
 
 ## About me
 
-<img  src="Avatar1.png"  width="300" style="float: right; padding: 20px;"/>
+<img src="Avatar1.png" width="300" style="padding: 20px;">
+<br>
+<img src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg" width="300" style="padding: 20px;">
+<p>Citation: Source or description of the second image goes here.</p>
 
 Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https://barkailab.wixsite.com/barkai) at the [Weizmann Institute of Science](https://www.weizmann.ac.il/pages/). Our lab studies how genes are regulated by a type of protein called a **transcription factor**!
 
 Throughout my degree I have been working to strengthen my computational skills, with the ultimate goal of combining *computational* and *wet-lab* research to study how human transcription factors find their target promoters.
-
-<img  src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg"  width="300" style="float: right; padding: 20px;"/>
 
 When I'm not in the lab, I enjoy:
 - Playing soccer
