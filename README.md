@@ -13,8 +13,8 @@ Hello! My name is Joshua and I am a master's student in the [Barkai Lab](https:/
 
 Throughout my degree I have been working to strengthen my computational skills, with the ultimate goal of combining *computational* and *wet-lab* research to study how human transcription factors find their target promoters.
 
+<img  src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg"  width="400" style="padding: 30px;"/>
 
-<img  src="A-diagrammatic-representation-of-gene-expression-The-transcription-factor-molecule-binds.jpg"  width="300" style="float: right; padding: 20px;"/>
 
 When I'm not in the lab, I enjoy:
 - Playing soccer
